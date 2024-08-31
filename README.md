@@ -1,0 +1,2 @@
+# Algoritmalariki
+Algoritmalarprojeodevi
